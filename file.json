@@ -30,37 +30,218 @@
     {
       "key": "trade",
       "label": "KoinTrade",
-      "color": "#41AF60"
+      "color": "#41AF60",
+      "subdata": [
+        {
+          "title": "Mengenai P2P Lending",
+          "questions": [
+            {
+              "title": "Ringkasan",
+              "content": "<div class=\"faq-item-content faq-item-default accordion-question\" style=\"display: block;\">\r\n            <p>Peer-to-peer lending atau P2P lending, adalah kegiatan pinjam meminjam antar perseorangan. Praktisi ini sudah lama berjalan dalam bentuk yang berbeda, seringkali dalam bentuk perjanjian informal. <\/p>\r\n            <p>Dengan berkembangnya teknologi dan e-commerce, kegiatan peminjaman turut berkembang dalam bentuk online dalam bentuk platform serupa dengan e-commerce. Dengan itu, seorang peminjam bisa mendapatkan pendanaan dari banyak individu. <\/p>\r\n            <p>Dalam peer lending, kegiatan dilakukan secara online melalui platform website dari berbagai perusahaan peer lending. Terdapat berbagai macam jenis platform, produk, dan teknologi untuk menganalisa kredit. Peminjam dan pendana tidak bertemu secara fisik dan seringkali tidak saling mengenal.  <\/p>\r\n            <p>Peer lending tidak sama dan tidak bisa dikategorikan dalam bentuk-bentuk institusi finansial tradisional: himpunan deposito, investasi, ataupun asuransi. Karena itu, peer lending dikategorikan sebagai produk finansial alternatif. <\/p>\r\n<\/div>"
+            },
+            {
+              "title": "Pinjaman Peer Lending",
+              "content": "<div class=\"faq-item-content accordion-question\" style=\"display: block;\">\r\n            <p>Pinjaman peer lending lazimnya adalah pinjaman pribadi tanpa agunan, dengan nominal yang lebih tinggi dipinjamkan ke usaha-usaha yang berkembang. Ada juga produk-produk lainnya yang menawarkan pinjaman edukasi, properti, payday, factoring, dan leasing. <\/p>\r\n            <p>Beberapa platform Peer lending juga menawarkan pinjaman dengan agunan berupa barang-barang bernilai tinggi seperti properti dan perhiasan. Akan tetapi, model ini relatif masih lebih sedikit karena lebih sulit diterapkan dalam skala besar.   <\/p>\r\n\r\n          <\/div>"
+            },
+            {
+              "title": "Legal",
+              "content": "<div class=\"faq-item-content accordion-question\" style=\"display: block;\">\r\n            <p>Peer lending adalah produk yang sangat baru di Indonesia dan juga negara-negara ASEAN lainnya. Pemerintah masih belum membuat peraturan khusus untuk industri ini. Tetapi, industri ini sudah diperhatikan potensi-nya, dan OJK sudah memulai persiapan untuk membentuk pengawasan yang formal.<\/p>\r\n            <p>Untuk sementara ini, platform peer lending membentuk usaha dan produk mereka dalam lingkup peraturan yang sudah ada. Terkadang ada juga yang dibentuk dengan interpretasi yang cukup liberal. <\/p>\r\n\r\n          <\/div>"
+            }
+          ]
+        }
+      ]
     },
     {
       "key": "gold",
       "label": "KoinGold",
-      "color": "#FDCA44"
+      "color": "#FDCA44",
+      "subdata": [
+        {
+          "title": "Mengenai P2P Lending",
+          "questions": [
+            {
+              "title": "Ringkasan",
+              "content": "<div class=\"faq-item-content faq-item-default accordion-question\" style=\"display: block;\">\r\n            <p>Peer-to-peer lending atau P2P lending, adalah kegiatan pinjam meminjam antar perseorangan. Praktisi ini sudah lama berjalan dalam bentuk yang berbeda, seringkali dalam bentuk perjanjian informal. <\/p>\r\n            <p>Dengan berkembangnya teknologi dan e-commerce, kegiatan peminjaman turut berkembang dalam bentuk online dalam bentuk platform serupa dengan e-commerce. Dengan itu, seorang peminjam bisa mendapatkan pendanaan dari banyak individu. <\/p>\r\n            <p>Dalam peer lending, kegiatan dilakukan secara online melalui platform website dari berbagai perusahaan peer lending. Terdapat berbagai macam jenis platform, produk, dan teknologi untuk menganalisa kredit. Peminjam dan pendana tidak bertemu secara fisik dan seringkali tidak saling mengenal.  <\/p>\r\n            <p>Peer lending tidak sama dan tidak bisa dikategorikan dalam bentuk-bentuk institusi finansial tradisional: himpunan deposito, investasi, ataupun asuransi. Karena itu, peer lending dikategorikan sebagai produk finansial alternatif. <\/p>\r\n<\/div>"
+            },
+            {
+              "title": "Pinjaman Peer Lending",
+              "content": "<div class=\"faq-item-content accordion-question\" style=\"display: block;\">\r\n            <p>Pinjaman peer lending lazimnya adalah pinjaman pribadi tanpa agunan, dengan nominal yang lebih tinggi dipinjamkan ke usaha-usaha yang berkembang. Ada juga produk-produk lainnya yang menawarkan pinjaman edukasi, properti, payday, factoring, dan leasing. <\/p>\r\n            <p>Beberapa platform Peer lending juga menawarkan pinjaman dengan agunan berupa barang-barang bernilai tinggi seperti properti dan perhiasan. Akan tetapi, model ini relatif masih lebih sedikit karena lebih sulit diterapkan dalam skala besar.   <\/p>\r\n\r\n          <\/div>"
+            },
+            {
+              "title": "Legal",
+              "content": "<div class=\"faq-item-content accordion-question\" style=\"display: block;\">\r\n            <p>Peer lending adalah produk yang sangat baru di Indonesia dan juga negara-negara ASEAN lainnya. Pemerintah masih belum membuat peraturan khusus untuk industri ini. Tetapi, industri ini sudah diperhatikan potensi-nya, dan OJK sudah memulai persiapan untuk membentuk pengawasan yang formal.<\/p>\r\n            <p>Untuk sementara ini, platform peer lending membentuk usaha dan produk mereka dalam lingkup peraturan yang sudah ada. Terkadang ada juga yang dibentuk dengan interpretasi yang cukup liberal. <\/p>\r\n\r\n          <\/div>"
+            }
+          ]
+        }
+      ]
     },
     {
       "key": "robo",
       "label": "KoinRobo",
-      "color": "#378DF4"
+      "color": "#378DF4",
+      "subdata": [
+        {
+          "title": "Mengenai P2P Lending",
+          "questions": [
+            {
+              "title": "Ringkasan",
+              "content": "<div class=\"faq-item-content faq-item-default accordion-question\" style=\"display: block;\">\r\n            <p>Peer-to-peer lending atau P2P lending, adalah kegiatan pinjam meminjam antar perseorangan. Praktisi ini sudah lama berjalan dalam bentuk yang berbeda, seringkali dalam bentuk perjanjian informal. <\/p>\r\n            <p>Dengan berkembangnya teknologi dan e-commerce, kegiatan peminjaman turut berkembang dalam bentuk online dalam bentuk platform serupa dengan e-commerce. Dengan itu, seorang peminjam bisa mendapatkan pendanaan dari banyak individu. <\/p>\r\n            <p>Dalam peer lending, kegiatan dilakukan secara online melalui platform website dari berbagai perusahaan peer lending. Terdapat berbagai macam jenis platform, produk, dan teknologi untuk menganalisa kredit. Peminjam dan pendana tidak bertemu secara fisik dan seringkali tidak saling mengenal.  <\/p>\r\n            <p>Peer lending tidak sama dan tidak bisa dikategorikan dalam bentuk-bentuk institusi finansial tradisional: himpunan deposito, investasi, ataupun asuransi. Karena itu, peer lending dikategorikan sebagai produk finansial alternatif. <\/p>\r\n<\/div>"
+            },
+            {
+              "title": "Pinjaman Peer Lending",
+              "content": "<div class=\"faq-item-content accordion-question\" style=\"display: block;\">\r\n            <p>Pinjaman peer lending lazimnya adalah pinjaman pribadi tanpa agunan, dengan nominal yang lebih tinggi dipinjamkan ke usaha-usaha yang berkembang. Ada juga produk-produk lainnya yang menawarkan pinjaman edukasi, properti, payday, factoring, dan leasing. <\/p>\r\n            <p>Beberapa platform Peer lending juga menawarkan pinjaman dengan agunan berupa barang-barang bernilai tinggi seperti properti dan perhiasan. Akan tetapi, model ini relatif masih lebih sedikit karena lebih sulit diterapkan dalam skala besar.   <\/p>\r\n\r\n          <\/div>"
+            },
+            {
+              "title": "Legal",
+              "content": "<div class=\"faq-item-content accordion-question\" style=\"display: block;\">\r\n            <p>Peer lending adalah produk yang sangat baru di Indonesia dan juga negara-negara ASEAN lainnya. Pemerintah masih belum membuat peraturan khusus untuk industri ini. Tetapi, industri ini sudah diperhatikan potensi-nya, dan OJK sudah memulai persiapan untuk membentuk pengawasan yang formal.<\/p>\r\n            <p>Untuk sementara ini, platform peer lending membentuk usaha dan produk mereka dalam lingkup peraturan yang sudah ada. Terkadang ada juga yang dibentuk dengan interpretasi yang cukup liberal. <\/p>\r\n\r\n          <\/div>"
+            }
+          ]
+        }
+      ]
     },
     {
       "key": "bisnis",
       "label": "KoinBisnis",
-      "color": "#2B486D"
+      "color": "#2B486D",
+      "subdata": [
+        {
+          "title": "Mengenai P2P Lending",
+          "questions": [
+            {
+              "title": "Ringkasan",
+              "content": "<div class=\"faq-item-content faq-item-default accordion-question\" style=\"display: block;\">\r\n            <p>Peer-to-peer lending atau P2P lending, adalah kegiatan pinjam meminjam antar perseorangan. Praktisi ini sudah lama berjalan dalam bentuk yang berbeda, seringkali dalam bentuk perjanjian informal. <\/p>\r\n            <p>Dengan berkembangnya teknologi dan e-commerce, kegiatan peminjaman turut berkembang dalam bentuk online dalam bentuk platform serupa dengan e-commerce. Dengan itu, seorang peminjam bisa mendapatkan pendanaan dari banyak individu. <\/p>\r\n            <p>Dalam peer lending, kegiatan dilakukan secara online melalui platform website dari berbagai perusahaan peer lending. Terdapat berbagai macam jenis platform, produk, dan teknologi untuk menganalisa kredit. Peminjam dan pendana tidak bertemu secara fisik dan seringkali tidak saling mengenal.  <\/p>\r\n            <p>Peer lending tidak sama dan tidak bisa dikategorikan dalam bentuk-bentuk institusi finansial tradisional: himpunan deposito, investasi, ataupun asuransi. Karena itu, peer lending dikategorikan sebagai produk finansial alternatif. <\/p>\r\n<\/div>"
+            },
+            {
+              "title": "Pinjaman Peer Lending",
+              "content": "<div class=\"faq-item-content accordion-question\" style=\"display: block;\">\r\n            <p>Pinjaman peer lending lazimnya adalah pinjaman pribadi tanpa agunan, dengan nominal yang lebih tinggi dipinjamkan ke usaha-usaha yang berkembang. Ada juga produk-produk lainnya yang menawarkan pinjaman edukasi, properti, payday, factoring, dan leasing. <\/p>\r\n            <p>Beberapa platform Peer lending juga menawarkan pinjaman dengan agunan berupa barang-barang bernilai tinggi seperti properti dan perhiasan. Akan tetapi, model ini relatif masih lebih sedikit karena lebih sulit diterapkan dalam skala besar.   <\/p>\r\n\r\n          <\/div>"
+            },
+            {
+              "title": "Legal",
+              "content": "<div class=\"faq-item-content accordion-question\" style=\"display: block;\">\r\n            <p>Peer lending adalah produk yang sangat baru di Indonesia dan juga negara-negara ASEAN lainnya. Pemerintah masih belum membuat peraturan khusus untuk industri ini. Tetapi, industri ini sudah diperhatikan potensi-nya, dan OJK sudah memulai persiapan untuk membentuk pengawasan yang formal.<\/p>\r\n            <p>Untuk sementara ini, platform peer lending membentuk usaha dan produk mereka dalam lingkup peraturan yang sudah ada. Terkadang ada juga yang dibentuk dengan interpretasi yang cukup liberal. <\/p>\r\n\r\n          <\/div>"
+            }
+          ]
+        }
+      ]
     },
     {
       "key": "invoice",
       "label": "KoinInvoice",
-      "color": "#8E8E8E"
+      "color": "#8E8E8E",
+      "subdata": [
+        {
+          "title": "Mengenai P2P Lending",
+          "questions": [
+            {
+              "title": "Ringkasan",
+              "content": "<div class=\"faq-item-content faq-item-default accordion-question\" style=\"display: block;\">\r\n            <p>Peer-to-peer lending atau P2P lending, adalah kegiatan pinjam meminjam antar perseorangan. Praktisi ini sudah lama berjalan dalam bentuk yang berbeda, seringkali dalam bentuk perjanjian informal. <\/p>\r\n            <p>Dengan berkembangnya teknologi dan e-commerce, kegiatan peminjaman turut berkembang dalam bentuk online dalam bentuk platform serupa dengan e-commerce. Dengan itu, seorang peminjam bisa mendapatkan pendanaan dari banyak individu. <\/p>\r\n            <p>Dalam peer lending, kegiatan dilakukan secara online melalui platform website dari berbagai perusahaan peer lending. Terdapat berbagai macam jenis platform, produk, dan teknologi untuk menganalisa kredit. Peminjam dan pendana tidak bertemu secara fisik dan seringkali tidak saling mengenal.  <\/p>\r\n            <p>Peer lending tidak sama dan tidak bisa dikategorikan dalam bentuk-bentuk institusi finansial tradisional: himpunan deposito, investasi, ataupun asuransi. Karena itu, peer lending dikategorikan sebagai produk finansial alternatif. <\/p>\r\n<\/div>"
+            },
+            {
+              "title": "Pinjaman Peer Lending",
+              "content": "<div class=\"faq-item-content accordion-question\" style=\"display: block;\">\r\n            <p>Pinjaman peer lending lazimnya adalah pinjaman pribadi tanpa agunan, dengan nominal yang lebih tinggi dipinjamkan ke usaha-usaha yang berkembang. Ada juga produk-produk lainnya yang menawarkan pinjaman edukasi, properti, payday, factoring, dan leasing. <\/p>\r\n            <p>Beberapa platform Peer lending juga menawarkan pinjaman dengan agunan berupa barang-barang bernilai tinggi seperti properti dan perhiasan. Akan tetapi, model ini relatif masih lebih sedikit karena lebih sulit diterapkan dalam skala besar.   <\/p>\r\n\r\n          <\/div>"
+            },
+            {
+              "title": "Legal",
+              "content": "<div class=\"faq-item-content accordion-question\" style=\"display: block;\">\r\n            <p>Peer lending adalah produk yang sangat baru di Indonesia dan juga negara-negara ASEAN lainnya. Pemerintah masih belum membuat peraturan khusus untuk industri ini. Tetapi, industri ini sudah diperhatikan potensi-nya, dan OJK sudah memulai persiapan untuk membentuk pengawasan yang formal.<\/p>\r\n            <p>Untuk sementara ini, platform peer lending membentuk usaha dan produk mereka dalam lingkup peraturan yang sudah ada. Terkadang ada juga yang dibentuk dengan interpretasi yang cukup liberal. <\/p>\r\n\r\n          <\/div>"
+            }
+          ]
+        }
+      ]
     },
     {
       "key": "pintar",
       "label": "KoinPintar",
-      "color": "#ED6E2E"
+      "color": "#ED6E2E",
+      "subdata": [
+        {
+          "title": "Mengenai P2P Lending",
+          "questions": [
+            {
+              "title": "Ringkasan",
+              "content": "<div class=\"faq-item-content faq-item-default accordion-question\" style=\"display: block;\">\r\n            <p>Peer-to-peer lending atau P2P lending, adalah kegiatan pinjam meminjam antar perseorangan. Praktisi ini sudah lama berjalan dalam bentuk yang berbeda, seringkali dalam bentuk perjanjian informal. <\/p>\r\n            <p>Dengan berkembangnya teknologi dan e-commerce, kegiatan peminjaman turut berkembang dalam bentuk online dalam bentuk platform serupa dengan e-commerce. Dengan itu, seorang peminjam bisa mendapatkan pendanaan dari banyak individu. <\/p>\r\n            <p>Dalam peer lending, kegiatan dilakukan secara online melalui platform website dari berbagai perusahaan peer lending. Terdapat berbagai macam jenis platform, produk, dan teknologi untuk menganalisa kredit. Peminjam dan pendana tidak bertemu secara fisik dan seringkali tidak saling mengenal.  <\/p>\r\n            <p>Peer lending tidak sama dan tidak bisa dikategorikan dalam bentuk-bentuk institusi finansial tradisional: himpunan deposito, investasi, ataupun asuransi. Karena itu, peer lending dikategorikan sebagai produk finansial alternatif. <\/p>\r\n<\/div>"
+            },
+            {
+              "title": "Pinjaman Peer Lending",
+              "content": "<div class=\"faq-item-content accordion-question\" style=\"display: block;\">\r\n            <p>Pinjaman peer lending lazimnya adalah pinjaman pribadi tanpa agunan, dengan nominal yang lebih tinggi dipinjamkan ke usaha-usaha yang berkembang. Ada juga produk-produk lainnya yang menawarkan pinjaman edukasi, properti, payday, factoring, dan leasing. <\/p>\r\n            <p>Beberapa platform Peer lending juga menawarkan pinjaman dengan agunan berupa barang-barang bernilai tinggi seperti properti dan perhiasan. Akan tetapi, model ini relatif masih lebih sedikit karena lebih sulit diterapkan dalam skala besar.   <\/p>\r\n\r\n          <\/div>"
+            },
+            {
+              "title": "Legal",
+              "content": "<div class=\"faq-item-content accordion-question\" style=\"display: block;\">\r\n            <p>Peer lending adalah produk yang sangat baru di Indonesia dan juga negara-negara ASEAN lainnya. Pemerintah masih belum membuat peraturan khusus untuk industri ini. Tetapi, industri ini sudah diperhatikan potensi-nya, dan OJK sudah memulai persiapan untuk membentuk pengawasan yang formal.<\/p>\r\n            <p>Untuk sementara ini, platform peer lending membentuk usaha dan produk mereka dalam lingkup peraturan yang sudah ada. Terkadang ada juga yang dibentuk dengan interpretasi yang cukup liberal. <\/p>\r\n\r\n          <\/div>"
+            }
+          ]
+        }
+      ]
     },
     {
       "key": "legal",
       "label": "KoinLegal",
-      "color": "#C53741"
+      "color": "#C53741",
+      "subdata": [
+        {
+          "title": "Mengenai P2P Lending",
+          "questions": [
+            {
+              "title": "Ringkasan",
+              "content": "<div class=\"faq-item-content faq-item-default accordion-question\" style=\"display: block;\">\r\n            <p>Peer-to-peer lending atau P2P lending, adalah kegiatan pinjam meminjam antar perseorangan. Praktisi ini sudah lama berjalan dalam bentuk yang berbeda, seringkali dalam bentuk perjanjian informal. <\/p>\r\n            <p>Dengan berkembangnya teknologi dan e-commerce, kegiatan peminjaman turut berkembang dalam bentuk online dalam bentuk platform serupa dengan e-commerce. Dengan itu, seorang peminjam bisa mendapatkan pendanaan dari banyak individu. <\/p>\r\n            <p>Dalam peer lending, kegiatan dilakukan secara online melalui platform website dari berbagai perusahaan peer lending. Terdapat berbagai macam jenis platform, produk, dan teknologi untuk menganalisa kredit. Peminjam dan pendana tidak bertemu secara fisik dan seringkali tidak saling mengenal.  <\/p>\r\n            <p>Peer lending tidak sama dan tidak bisa dikategorikan dalam bentuk-bentuk institusi finansial tradisional: himpunan deposito, investasi, ataupun asuransi. Karena itu, peer lending dikategorikan sebagai produk finansial alternatif. <\/p>\r\n<\/div>"
+            },
+            {
+              "title": "Pinjaman Peer Lending",
+              "content": "<div class=\"faq-item-content accordion-question\" style=\"display: block;\">\r\n            <p>Pinjaman peer lending lazimnya adalah pinjaman pribadi tanpa agunan, dengan nominal yang lebih tinggi dipinjamkan ke usaha-usaha yang berkembang. Ada juga produk-produk lainnya yang menawarkan pinjaman edukasi, properti, payday, factoring, dan leasing. <\/p>\r\n            <p>Beberapa platform Peer lending juga menawarkan pinjaman dengan agunan berupa barang-barang bernilai tinggi seperti properti dan perhiasan. Akan tetapi, model ini relatif masih lebih sedikit karena lebih sulit diterapkan dalam skala besar.   <\/p>\r\n\r\n          <\/div>"
+            },
+            {
+              "title": "Legal",
+              "content": "<div class=\"faq-item-content accordion-question\" style=\"display: block;\">\r\n            <p>Peer lending adalah produk yang sangat baru di Indonesia dan juga negara-negara ASEAN lainnya. Pemerintah masih belum membuat peraturan khusus untuk industri ini. Tetapi, industri ini sudah diperhatikan potensi-nya, dan OJK sudah memulai persiapan untuk membentuk pengawasan yang formal.<\/p>\r\n            <p>Untuk sementara ini, platform peer lending membentuk usaha dan produk mereka dalam lingkup peraturan yang sudah ada. Terkadang ada juga yang dibentuk dengan interpretasi yang cukup liberal. <\/p>\r\n\r\n          <\/div>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "general",
+      "label": "General",
+      "color": "#EFEFEF",
+      "subdata": [
+        {
+          "title": "Mengenai P2P Lending",
+          "questions": [
+            {
+              "title": "Ringkasan",
+              "content": "<div class=\"faq-item-content faq-item-default accordion-question\" style=\"display: block;\">\r\n            <p>Peer-to-peer lending atau P2P lending, adalah kegiatan pinjam meminjam antar perseorangan. Praktisi ini sudah lama berjalan dalam bentuk yang berbeda, seringkali dalam bentuk perjanjian informal. <\/p>\r\n            <p>Dengan berkembangnya teknologi dan e-commerce, kegiatan peminjaman turut berkembang dalam bentuk online dalam bentuk platform serupa dengan e-commerce. Dengan itu, seorang peminjam bisa mendapatkan pendanaan dari banyak individu. <\/p>\r\n            <p>Dalam peer lending, kegiatan dilakukan secara online melalui platform website dari berbagai perusahaan peer lending. Terdapat berbagai macam jenis platform, produk, dan teknologi untuk menganalisa kredit. Peminjam dan pendana tidak bertemu secara fisik dan seringkali tidak saling mengenal.  <\/p>\r\n            <p>Peer lending tidak sama dan tidak bisa dikategorikan dalam bentuk-bentuk institusi finansial tradisional: himpunan deposito, investasi, ataupun asuransi. Karena itu, peer lending dikategorikan sebagai produk finansial alternatif. <\/p>\r\n<\/div>"
+            },
+            {
+              "title": "Pinjaman Peer Lending",
+              "content": "<div class=\"faq-item-content accordion-question\" style=\"display: block;\">\r\n            <p>Pinjaman peer lending lazimnya adalah pinjaman pribadi tanpa agunan, dengan nominal yang lebih tinggi dipinjamkan ke usaha-usaha yang berkembang. Ada juga produk-produk lainnya yang menawarkan pinjaman edukasi, properti, payday, factoring, dan leasing. <\/p>\r\n            <p>Beberapa platform Peer lending juga menawarkan pinjaman dengan agunan berupa barang-barang bernilai tinggi seperti properti dan perhiasan. Akan tetapi, model ini relatif masih lebih sedikit karena lebih sulit diterapkan dalam skala besar.   <\/p>\r\n\r\n          <\/div>"
+            },
+            {
+              "title": "Legal",
+              "content": "<div class=\"faq-item-content accordion-question\" style=\"display: block;\">\r\n            <p>Peer lending adalah produk yang sangat baru di Indonesia dan juga negara-negara ASEAN lainnya. Pemerintah masih belum membuat peraturan khusus untuk industri ini. Tetapi, industri ini sudah diperhatikan potensi-nya, dan OJK sudah memulai persiapan untuk membentuk pengawasan yang formal.<\/p>\r\n            <p>Untuk sementara ini, platform peer lending membentuk usaha dan produk mereka dalam lingkup peraturan yang sudah ada. Terkadang ada juga yang dibentuk dengan interpretasi yang cukup liberal. <\/p>\r\n\r\n          <\/div>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "account",
+      "label": "Account",
+      "color": "#EFEFEF",
+      "subdata": [
+        {
+          "title": "Mengenai P2P Lending",
+          "questions": [
+            {
+              "title": "Ringkasan",
+              "content": "<div class=\"faq-item-content faq-item-default accordion-question\" style=\"display: block;\">\r\n            <p>Peer-to-peer lending atau P2P lending, adalah kegiatan pinjam meminjam antar perseorangan. Praktisi ini sudah lama berjalan dalam bentuk yang berbeda, seringkali dalam bentuk perjanjian informal. <\/p>\r\n            <p>Dengan berkembangnya teknologi dan e-commerce, kegiatan peminjaman turut berkembang dalam bentuk online dalam bentuk platform serupa dengan e-commerce. Dengan itu, seorang peminjam bisa mendapatkan pendanaan dari banyak individu. <\/p>\r\n            <p>Dalam peer lending, kegiatan dilakukan secara online melalui platform website dari berbagai perusahaan peer lending. Terdapat berbagai macam jenis platform, produk, dan teknologi untuk menganalisa kredit. Peminjam dan pendana tidak bertemu secara fisik dan seringkali tidak saling mengenal.  <\/p>\r\n            <p>Peer lending tidak sama dan tidak bisa dikategorikan dalam bentuk-bentuk institusi finansial tradisional: himpunan deposito, investasi, ataupun asuransi. Karena itu, peer lending dikategorikan sebagai produk finansial alternatif. <\/p>\r\n<\/div>"
+            },
+            {
+              "title": "Pinjaman Peer Lending",
+              "content": "<div class=\"faq-item-content accordion-question\" style=\"display: block;\">\r\n            <p>Pinjaman peer lending lazimnya adalah pinjaman pribadi tanpa agunan, dengan nominal yang lebih tinggi dipinjamkan ke usaha-usaha yang berkembang. Ada juga produk-produk lainnya yang menawarkan pinjaman edukasi, properti, payday, factoring, dan leasing. <\/p>\r\n            <p>Beberapa platform Peer lending juga menawarkan pinjaman dengan agunan berupa barang-barang bernilai tinggi seperti properti dan perhiasan. Akan tetapi, model ini relatif masih lebih sedikit karena lebih sulit diterapkan dalam skala besar.   <\/p>\r\n\r\n          <\/div>"
+            },
+            {
+              "title": "Legal",
+              "content": "<div class=\"faq-item-content accordion-question\" style=\"display: block;\">\r\n            <p>Peer lending adalah produk yang sangat baru di Indonesia dan juga negara-negara ASEAN lainnya. Pemerintah masih belum membuat peraturan khusus untuk industri ini. Tetapi, industri ini sudah diperhatikan potensi-nya, dan OJK sudah memulai persiapan untuk membentuk pengawasan yang formal.<\/p>\r\n            <p>Untuk sementara ini, platform peer lending membentuk usaha dan produk mereka dalam lingkup peraturan yang sudah ada. Terkadang ada juga yang dibentuk dengan interpretasi yang cukup liberal. <\/p>\r\n\r\n          <\/div>"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
