@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "code": 200,
+  "message": "Success",
+  "data": [
+    {
+      "key": "p2p",
+      "label": "KoinP2P",
+      "color": "#9E2C34",
+      "subdata": [
+        {
+          "category": "Category",
+          "contents": [
+            {
+              "title": "Asad",
+              "content": "asdfasdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trade",
+      "label": "KoinTrade",
+      "color": "#41AF60"
+    },
+    {
+      "key": "gold",
+      "label": "KoinGold",
+      "color": "#FDCA44"
+    },
+    {
+      "key": "robo",
+      "label": "KoinRobo",
+      "color": "#378DF4"
+    },
+    {
+      "key": "bisnis",
+      "label": "KoinBisnis",
+      "color": "#2B486D"
+    },
+    {
+      "key": "invoice",
+      "label": "KoinInvoice",
+      "color": "#8E8E8E"
+    },
+    {
+      "key": "pintar",
+      "label": "KoinPintar",
+      "color": "#ED6E2E"
+    },
+    {
+      "key": "legal#",
+      "label": "KoinLegal",
+      "color": "#C53741"
+    }
+  ]
+}
